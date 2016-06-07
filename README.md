@@ -4,8 +4,9 @@ test module
 ## Usage
 
 ```js
-var sm = require('simple-module');
+var hello = require('simple-module');
 
+hello.apply();
 // => Hello world!
 ```
 
