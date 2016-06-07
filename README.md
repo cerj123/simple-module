@@ -6,7 +6,7 @@ test module
 ```js
 var sm = require('simple-module');
 
-console.log(sm); // => Hello world!
+// => Hello world!
 ```
 
 ## Installation
