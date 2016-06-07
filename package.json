@@ -1,0 +1,23 @@
+{
+  "name": "simple-module",
+  "description": "test module",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cerj123/simple-module.git"
+  },
+  "homepage": "https://github.com/cerj123/simple-module",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "test"
+  ],
+  "author": {
+    "name": "Vincent",
+    "email": "cerjart@gmail.com",
+    "url": "https://github.com/cerj123"
+  },
+  "license": "MIT",
+  }
+}
