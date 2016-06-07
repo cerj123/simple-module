@@ -14,6 +14,6 @@ var sm = require('simple-module');
 With [npm](https://npmjs.org) do
 
 ```bash
-$ npm install simple-module
+$ npm install https://github.com/cerj123/simple-module
 ```
 
