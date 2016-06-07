@@ -19,5 +19,11 @@
     "url": "https://github.com/cerj123"
   },
   "license": "MIT",
+  "testling": {
+    "files": "test.js",
+    "browsers": []
+  },
+  "scripts": {
+    "test": "tape test.js"
   }
 }
