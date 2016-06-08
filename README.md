@@ -6,7 +6,7 @@ test module
 ```js
 var hello = require('simple-module');
 
-hello;
+hello();
 // => Hello world!
 ```
 
