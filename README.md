@@ -1,10 +1,10 @@
-# simple-module
+# simple-test-module
 test module
 
 ## Usage
 
 ```js
-var hello = require('simple-module');
+var hello = require('simple-test-module');
 
 hello();
 // => Hello world!
@@ -15,6 +15,6 @@ hello();
 With [npm](https://npmjs.org) do
 
 ```bash
-$ npm install https://github.com/cerj123/simple-module
+$ npm install simple-test-module
 ```
 
