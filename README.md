@@ -15,6 +15,6 @@ hello();
 With [npm](https://npmjs.org) do
 
 ```bash
-$ npm install simple-test-module
+$ npm install https://github.com/cerj123/simple-test-module
 ```
 
